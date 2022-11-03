@@ -1,0 +1,31 @@
+#navBar{
+align-items: center;
+display: flex;
+color: white;
+background-color: rgb(43, 43, 43);
+justify-content: center;
+gap: 100px;
+padding: 2px;
+}
+
+#Img{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+#navMenu li{
+list-style: none;
+}
+
+#navMenu ul{
+display: flex;
+text-decoration: none;
+gap: 10px;
+text-transform: capitalize;
+}
+
+#wallpaper{
+  width: 100%;
+  height: 400px;
+}
